@@ -1,2 +1,0 @@
-# WebXrIntegration
-webxr integration
